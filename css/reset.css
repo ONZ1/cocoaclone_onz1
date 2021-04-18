@@ -50,3 +50,8 @@ table {
 input:focus{
     outline: none;
 }
+
+a{
+    color: rgba(50, 40, 30, 0.8);
+	text-decoration: none;
+}
