@@ -1,5 +1,6 @@
 .screen-header{
     margin-top: 25px;
+    margin-bottom: 15px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -11,4 +12,20 @@
 }
 .screen-header__icons span{
     margin-left: 25px;
+}
+.screen-header__icons{
+    display: flex;
+}
+.screen-header__icons-cog{
+    position: relative;
+}
+.cog__notidott{
+    background-color: tomato;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    display: block;
+    position: absolute;
+    left: 20px;
+    bottom: 17px;
 }
