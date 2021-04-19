@@ -1,4 +1,7 @@
 :root{
+    color: rgba(60, 50, 40, 0.7);
     --cocoa: #9e7b5f;
     --horizontal-space: 25px;
+    --light-border: 1px solid rgba(60, 50, 40, 0.2);
+    --light-font: rgba(60, 50, 40, 0.5);
 }
